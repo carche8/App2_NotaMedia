@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App2</string>
+    <string name="nota1_String"> Introduce la nota de Mate</string>
+    <string name="nota2_String"> Introduce la nota de Quimica</string>
+    <string name="nota3_String"> Introduce la nota de Lengua</string>
+    <string name="nota1_String"> Introduce la nota de Mate</string>
+    <string name="boton_String"> Calcular nota
+    </string>
+</resources>
